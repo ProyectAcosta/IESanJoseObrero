@@ -1,5 +1,3 @@
-# IESanJoseObrero
-proyecto web del colegio san jose obrero
 
 # Compiled class file
 *.class
